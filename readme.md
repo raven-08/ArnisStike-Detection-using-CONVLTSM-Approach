@@ -1,4 +1,4 @@
-Note: Datasets are not pushed in github due to storage restrictions
+Note: Datasets were not pushed in github due to storage restrictions
 
 => Install the Libraries from requirements.txt
 
